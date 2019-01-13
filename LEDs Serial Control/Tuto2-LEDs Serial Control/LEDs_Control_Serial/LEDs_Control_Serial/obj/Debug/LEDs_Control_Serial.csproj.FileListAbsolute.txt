@@ -1,0 +1,30 @@
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.exe.config
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.exe
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.pdb
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csprojAssemblyReference.cache
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.ArduinoSerialControl.resources
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.Properties.Resources.resources
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csproj.GenerateResource.cache
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csproj.CoreCompileInputs.cache
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.exe
+C:\Users\dmele.DESKTOP-UO9PDPJ\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.pdb
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.exe.config
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.exe
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.pdb
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.ArduinoSerialControl.resources
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.Properties.Resources.resources
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csproj.GenerateResource.cache
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.exe
+C:\Users\Daniel Melendrez\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.pdb
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.exe.config
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.exe
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\bin\Debug\LEDs_Control_Serial.pdb
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csprojAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.ArduinoSerialControl.resources
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csproj.GenerateResource.cache
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.exe
+C:\Users\Daniel\Dropbox\Programming\GUIs for Arduino - Cpp-CS\Tuto2-educ8stv\LEDs_Control_Serial\LEDs_Control_Serial\obj\Debug\LEDs_Control_Serial.pdb
